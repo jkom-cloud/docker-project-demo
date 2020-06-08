@@ -1,0 +1,5 @@
+*.pyc
+
+django-mysqlclient/src/*
+django-mysqlclient/static/*
+django-mysqlclient/mysql/*
